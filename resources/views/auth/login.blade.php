@@ -8,7 +8,7 @@
     <div class="login-left">
         <img src="{{ asset('assets/logo.webp') }}" alt="Quiz Quest Logo" class="login-logo"> 
         <h2>Welcome to Quiz Quest</h2>
-        <p>Manage trivia, track players, and keep the game exciting! sasasasasas</p>
+        <p>Manage trivia, track players, and keep the game exciting!</p>
     </div>
 
     <!-- ✅ Right Section (Login Form) -->
